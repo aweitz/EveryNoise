@@ -1,0 +1,12 @@
+.letterHolder{
+	display:none;
+}
+
+.artists{
+	display:none;
+}
+
+.artists, .letterHolder, h1, div, p{
+	font-family: Sans-Serif
+}
+
